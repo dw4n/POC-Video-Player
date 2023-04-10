@@ -1,0 +1,9 @@
+.video-js .vjs-resolution-button .vjs-icon-placeholder:before {
+  content: "\f110";
+}
+
+.video-js .vjs-resolution-button .vjs-icon-placeholder {
+  font-family: VideoJS;
+  font-weight: normal;
+  font-style: normal;
+}
